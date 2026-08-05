@@ -10,7 +10,7 @@ export default function GeoVisionMap() {
         latitude: 40.7128,
         zoom: 10,
         }}
-    mapStyle="https://demotiles.maplibre.org/style.json"
+    mapStyle="https://tiles.openfreemap.org/styles/liberty"
     style={{
     width: "100vw",
     height: "100vh",
